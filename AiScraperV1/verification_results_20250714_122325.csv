@@ -1,0 +1,25 @@
+url,privacy_policy_found,tos_found,dmca_found,disclaimer_found,form_filled,raw_output_summary,agent_thoughts
+cheapestautorates.com,,,,,,"CRITICAL_FAILURE: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""cheapestautorates.com"", waiting until ""load""
+",
+cheaphomecovers.com,,,,,,"CRITICAL_FAILURE: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""cheaphomecovers.com"", waiting until ""load""
+",
+cheaponlineinsurance.com,,,,,,"CRITICAL_FAILURE: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""cheaponlineinsurance.com"", waiting until ""load""
+",
+cheapquotehome.com,,,,,,"CRITICAL_FAILURE: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""cheapquotehome.com"", waiting until ""load""
+",
+cheapy.cheapyinsurance.com,,,,,,"CRITICAL_FAILURE: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""cheapy.cheapyinsurance.com"", waiting until ""load""
+",
+civilcarcoverage.com,,,,,,"CRITICAL_FAILURE: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL
+Call log:
+  - navigating to ""civilcarcoverage.com"", waiting until ""load""
+",

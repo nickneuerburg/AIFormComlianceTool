@@ -1,0 +1,5 @@
+python-dotenv
+playwright
+langchain-core
+langchain-google-genai
+pydantic
